@@ -55,10 +55,10 @@ const proud_Indian = {
 ![](https://img.shields.io/badge/bitbucket%20-%230047B3.svg?style=flat&logo=bitbucket&logoColor=white)
 ![](https://img.shields.io/badge/sqlite-%2307405e.svg?&style=flat&logo=sqlite&logoColor=white)
 
-### ⚡ One line that describes me best? 
+## ⚡ One line that describes me best? 
 A simple guy who loves to code, day dream at nights and sometime sings too.😉😉
 
-### 👯 My other interests
+## 👯 My other interests
 I look forward to absorb knowledge🧠,gain experience👨‍🏭, collaborate🤝 and build amazing products 🏭for the world🌍!
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
