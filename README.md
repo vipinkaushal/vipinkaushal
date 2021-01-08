@@ -9,7 +9,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/vipinkaushal?label=Follow&style=social)
 [![Gmail Badge](https://img.shields.io/badge/-VipinKaushal-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vipinkaushal.sis@gmail.com)](mailto:vipinkaushal.sis@gmail.com)
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/EOfr3pMsihGmzZFo2B/giphy.gif" width="100"> A little more about me...  
 
 ```javascript
 const proud_Indian = {
