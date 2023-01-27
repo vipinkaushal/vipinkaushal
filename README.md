@@ -1,7 +1,7 @@
 <h1><img src="https://media.giphy.com/media/3o6wrAGrygEMdv5zdC/giphy.gif"></h1>
 <h2>नमस्ते (Namaste)🙏🏻, I'm Vipin Kumar Kaushal!</h2>
 
-<p><em>Software Engineer at <a href="https://www.delltechnologies.com">Dell Technologies</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Software Engineer at <a href="https://www.oracle.com/in/engineered-systems/private-cloud-appliance">Oracle Private Cloud, </a> <a href="https://www.delltechnologies.com">Ex- Dell Technologies</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: vipinkaushal](https://img.shields.io/twitter/follow/Vipiiaan?style=social)](https://twitter.com/Vipiiaan)
