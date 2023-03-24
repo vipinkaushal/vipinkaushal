@@ -15,18 +15,18 @@
 const proud_Indian = {
     pronouns: "He" | "Him",
     code: ["C", "C++", "Python", "Java", "C#"],
-    askMeAbout: ["tech", "app dev", "database", "REST"],
+    askMeAbout: ["K8s", "app dev", "database", "REST"],
     technologies: {
         backEnd: {
             js: ["node", "express"],
             python: ["flask"]
         },
-        devOps: ["AWS", "Docker🐳", "Azure", "K8s"],
+        devOps: ["AWS", "Docker🐳", "Azure", "K8s", "OCI"],
         databases: ["MSSQL", "MySql", "sqlite"],
-        misc: ["Office365", "P4", "Socket.IO", "VSS/VDI", "Cloud", "Scale"]
+        misc: ["Terraform", "P4", "Helm", "VSS/VDI", "Cloud", "Scale"]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Distributed Systems"],
-    currentFocus: "Comptetive Programming using C++",
+    architecture: ["Serverless Architecture", "Microservices Architecture", "Distributed Systems"],
+    currentFocus: "Infrastructure as Code (IaC)",
     funFact: "Don’t worry if it doesn’t work right. If everything did, you’d be out of a job. #Mosher"
 };
 ```
